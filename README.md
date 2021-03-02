@@ -1,10 +1,15 @@
-#Python- AFSA 
-Artificial Fish Swarm Algorithm
+#algo params
 
-AFSA for Rosenbrock function
+dim=2
+population=10
+GroupFish=[]
+試行回数
+trytimes=3
+#Fish params
+Visual=0.2
+step=0.3
 
-To execute: $ python fishmain.py
-
-!!!Not all functions in included!!!
-
-!!!Code is based on AFSA papers !!!
+#params
+i=0
+繰り返し回数
+iteration=10
